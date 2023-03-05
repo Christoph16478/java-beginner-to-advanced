@@ -2,7 +2,7 @@
 
 **java beginner to advanced:**
 
-java concepts explained via exaple code.
+java concepts explained via examples.
 
 ## :heavy_check_mark: prerequisites ##
 
